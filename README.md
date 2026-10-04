@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of snfansclub/navertv.** Not for installation: use [Packagist](https://packagist.org/packages/snfansclub/navertv) or the [upstream repository](https://github.com/snfansclub/navertv).
 
-**0** versions archived · Latest: [`v0.3`](https://github.com/flarchive/snfansclub-navertv/tree/archive/v0.3) · License: `MIT` · Flarum: `^0.1.0-beta.13`
+**3** versions archived · Latest: [`v0.3`](https://github.com/flarchive/snfansclub-navertv/tree/archive/v0.3) · License: `MIT` · Flarum: `^0.1.0-beta.13`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1` | 2020-07-12 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/snfansclub-navertv/tree/archive/v0.1) |
+| `v0.2` | 2020-07-12 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/snfansclub-navertv/tree/archive/v0.2) |
+| `v0.3` | 2020-07-12 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/snfansclub-navertv/tree/archive/v0.3) |
 
 Catalog entry: [packages/snfansclub-navertv.json](https://github.com/flarchive/archive-index/blob/main/packages/snfansclub-navertv.json)
 
